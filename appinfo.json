@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable",
+        "health"
+    ],
+    "companyName": "riperezzz@gmail.com",
+    "enableMultiJS": true,
+    "longName": "score_counter",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "score_counter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7d5a29eb-9fb7-4054-95f3-5ea1aa4a3d19",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
